@@ -12,6 +12,10 @@ There was an original repo set up originally but wanting my own flexibility, dec
 
 ## Team
 - Andrew Xu, Research and Analysis (22307113)
+> Originally established communications. Volunteered to handle the research and write up aspect.
 - Ider Dalaibayar, Presentation and Communication (21330323)
+> Tasked with the overseeing and poster composition aspect.
 - Rashed Almheiri, Development and Management (21211532)
+> Tasked as lead developer and manager of the project.
 - Elijah Lopez, Development and Management (23202334)
+> Tasked as lead developer and manager of the project.
