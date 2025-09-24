@@ -1,7 +1,7 @@
 # Algorithms Paper 1 Group Project
 ## Project Overview
-There was an original repo set up originally but wanting my own flexibility, decided to migrate over to my own one instead as I will likely be the one submitting or.... trying to submit.
-
+Repo for my Algorithms Module and Data Structures Module. Was to be a 4-man group project but ended up being the sole contributor.
+Original commits are on a different team member's private repo, ended up making my own repository for better control and also to make visible for portfolio and archival reason.
 
 
 # Documents
@@ -12,7 +12,7 @@ There was an original repo set up originally but wanting my own flexibility, dec
 
 ## Team
 - Andrew Xu, Research and Analysis (22307113)
-> Originally established communications. Volunteered to handle the research and write up aspect.
+> Originally established communications. Volunteered to handle the research and write up aspect. Ended up being the sole researcher, analyst and lead developer.
 - Ider Dalaibayar, Presentation and Communication (21330323)
 > Tasked with the overseeing and poster composition aspect.
 - Rashed Almheiri, Development and Management (21211532)
